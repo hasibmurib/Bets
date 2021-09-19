@@ -1,0 +1,129 @@
+
+0gui.MainGUI#getLblNewLabel()Ljavax/swing/JLabel;¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaé é("3*Ä"
+2¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê# ê(1«
+ƒ
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê# ê(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas›⁄
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê# ê(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)÷”
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê ê("
+%3javax.swing.JLabel"javax.swing.JLabelî
+ë
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê ê(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.StringÒ
+Ó
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaê ê(c%
+gui.MainGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabelÒ
+Ó
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaë ë(
+%5javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption¡
+æ
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaë1 ë(:	
+%6int"__id*
+""Ã…
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaë" ë(&
+%7java.awt.Font"java.awt.Fontë
+é
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaë ë(?
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+Tahoma*
+	
+%6int*2≥∞
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaë ë(@
+
+%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%5javax.swing.JLabel*
+
+%7java.awt.Font2setFont(Ljava/awt/Font;)Ú
+Ô
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaí í(
+%10javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptionÕ
+ 
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaí$ í(/
+%11java.awt.Color"__id*
+""≈¬
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaí í(0
+%12void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%10javax.swing.JLabel*
+
+%11java.awt.Color2setForeground(Ljava/awt/Color;)Ú
+Ô
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaì ì(
+%13javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption¬
+ø
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaì- ì(B
+
+%14int"__id*
+""™ß
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaì ì(C
+%15void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%13javax.swing.JLabel*
+
+
+%14int2setHorizontalAlignment(I)*
+1*§
+3¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaè è(Ò
+Ó
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaè è(
+%0javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption*
+2
+1*‚
+1¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaï	 ï(Ú
+Ô
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaï	 ï(
+%16javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption"¬
+¢
+ï/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/MainGUI.javaï ï(
+
+%16javax.swing.JLabelB
+gui.MainGUI

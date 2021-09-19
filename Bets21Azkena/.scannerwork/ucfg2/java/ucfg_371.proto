@@ -1,0 +1,233 @@
+
+4gui.ArretaZerbitzuaEmanGUI#eguneratuElkarrizketak()V±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÌ Ì($"4"5*Ü
+4±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÉ É(	Ñ
+Å
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÉ É(	
+%29javax.swing.JLabel"__id***(
+gui.ArretaZerbitzuaEmanGUI"
+chooseüú
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÉ É(
+%30void"%javax.swing.JComponent#setVisible(Z)V*
+
+%29javax.swing.JLabel*
+""2setVisible(Z)Ñ
+Å
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÖ Ö(	
+%31javax.swing.JLabel"__id***(
+gui.ArretaZerbitzuaEmanGUI"
+choose◊
+‘
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÖ Ö(7
+%32java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	EtiquetasÌ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÖ Ö(S
+%33java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%32java.util.ResourceBundle*
+ChooseCustomer2getString(Ljava/lang/String;) «
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÖ Ö(T
+%34void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%31javax.swing.JLabel*
+
+%33java.lang.String2setText(Ljava/lang/String;)*
+0*«B
+5±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÛ Û(á
+Ñ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÛ Û(
+%0javax.swing.JTable"__id*.*,
+gui.ArretaZerbitzuaEmanGUI"
+
+tableMezuaùö
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÛ Û(
+
+%1void"%javax.swing.JComponent#setVisible(Z)V*
+
+%0javax.swing.JTable*
+""2setVisible(Z)í
+è
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÙ Ù(
+%2javax.swing.JScrollPane"__id*4*2
+gui.ArretaZerbitzuaEmanGUI"
+scrollPaneMezuak¢ü
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÙ Ù(%
+
+%3void"%javax.swing.JComponent#setVisible(Z)V*
+
+%2javax.swing.JScrollPane*
+""2setVisible(Z)Ç
+ˇ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaı ı(
+%4javax.swing.JButton"__id*(*&
+gui.ArretaZerbitzuaEmanGUI"
+sendûõ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaı ı(
+
+%5void"%javax.swing.JComponent#setVisible(Z)V*
+
+%4javax.swing.JButton*
+""2setVisible(Z)Ç
+ˇ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaˆ ˆ(
+%6javax.swing.JButton"__id*(*&
+gui.ArretaZerbitzuaEmanGUI"
+send¢ü
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaˆ ˆ(
+
+%7void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%6javax.swing.JButton*
+""2setEnabled(Z)Ü
+É
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˜ ˜(
+%8javax.swing.JButton"__id*,**
+gui.ArretaZerbitzuaEmanGUI"
+
+erantzunûõ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˜ ˜(
+
+%9void"%javax.swing.JComponent#setVisible(Z)V*
+
+%8javax.swing.JButton*
+""2setVisible(Z)á
+Ñ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java¯ ¯(
+%10javax.swing.JButton"__id*,**
+gui.ArretaZerbitzuaEmanGUI"
+
+erantzun§°
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java¯ ¯(
+%11void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%10javax.swing.JButton*
+""2setEnabled(Z)ã
+à
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˘ ˘(
+%12javax.swing.JButton"__id*0*.
+gui.ArretaZerbitzuaEmanGUI"
+mezuraItzuli†ù
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˘ ˘(!
+%13void"%javax.swing.JComponent#setVisible(Z)V*
+
+%12javax.swing.JButton*
+""2setVisible(Z)ã
+à
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˙ ˙(
+%14javax.swing.JButton"__id*0*.
+gui.ArretaZerbitzuaEmanGUI"
+mezuraItzuli§°
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˙ ˙(!
+%15void")javax.swing.AbstractButton#setEnabled(Z)V*
+
+%14javax.swing.JButton*
+""2setEnabled(Z)â
+Ü
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˚ ˚(
+%16javax.swing.JTextArea"__id*,**
+gui.ArretaZerbitzuaEmanGUI"
+
+textArea¢ü
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˚ ˚(
+%17void"%javax.swing.JComponent#setVisible(Z)V*
+
+%16javax.swing.JTextArea*
+""2setVisible(Z)Ç
+ˇ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java¸ ¸(
+%18javax.swing.JLabel"__id*(*&
+gui.ArretaZerbitzuaEmanGUI"
+gaia≥∞
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java¸ ¸(
+%19void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%18javax.swing.JLabel* 2setText(Ljava/lang/String;)†
+ù
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˝ ˝(
+%20void"-gui.ArretaZerbitzuaEmanGUI#aldatuTamaina(II)V*
+gui.ArretaZerbitzuaEmanGUI*2ˆ*2lÉ
+Ä
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˛ ˛(
+%21javax.swing.JButton"__id*(*&
+gui.ArretaZerbitzuaEmanGUI"
+back∞≠
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.java˛ ˛(!
+%22void"#java.awt.Component#setBounds(IIII)V*
+
+%21javax.swing.JButton*2
+*2*2Y*22setBounds(IIII)Ñ
+Å
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaˇ ˇ(	
+%23javax.swing.JLabel"__id***(
+gui.ArretaZerbitzuaEmanGUI"
+chooseüú
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaˇ ˇ(
+%24void"%javax.swing.JComponent#setVisible(Z)V*
+
+%23javax.swing.JLabel*
+""2setVisible(Z)Ñ
+Å
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÅ Å(	
+%25javax.swing.JLabel"__id***(
+gui.ArretaZerbitzuaEmanGUI"
+choose◊
+‘
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÅ Å(7
+%26java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	EtiquetasÙÒ
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÅ Å(W
+%27java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%26java.util.ResourceBundle*
+NoCustomerAssigned2getString(Ljava/lang/String;) «
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaÅ Å(X
+%28void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+
+%25javax.swing.JLabel*
+
+%27java.lang.String2setText(Ljava/lang/String;)*
+0*—
+0 "…
+±
+§/home/hasib/Escritorio/Facultad-de-Inform√°tica/Tercer-Curso/IS2/bets21azkeniterazioa-master-Bets21Azkena/Bets21Azkena/src/main/java/gui/ArretaZerbitzuaEmanGUI.javaä ä(
+implicit returnB
+gui.ArretaZerbitzuaEmanGUI

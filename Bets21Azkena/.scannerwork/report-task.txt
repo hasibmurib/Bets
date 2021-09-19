@@ -1,0 +1,7 @@
+organization=hasibmurib
+projectKey=Bets21Hasib
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23304
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bets21Hasib
+ceTaskId=AXv_7xzFzMn1J-cAcGta
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXv_7xzFzMn1J-cAcGta
